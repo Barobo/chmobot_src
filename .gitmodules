@@ -1,0 +1,9 @@
+[submodule "iMobot_gumstix_api"]
+	path = iMobot_gumstix_api
+	url = git@github.com:Barobo/iMobot_gumstix_api.git
+[submodule "mxml-2.7"]
+	path = mxml-2.7
+	url = ../mxml-2.7
+[submodule "BaroboConfigFile"]
+	path = BaroboConfigFile
+	url = ../BaroboConfigFile/
