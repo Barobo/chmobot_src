@@ -3,7 +3,7 @@
 	url = git@github.com:Barobo/iMobot_gumstix_api.git
 [submodule "mxml-2.7"]
 	path = mxml-2.7
-	url = ../mxml-2.7
+	url = ssh://dko@iel2.engr.ucdavis.edu/home/dko/projects/mxml-2.7.git
 [submodule "BaroboConfigFile"]
 	path = BaroboConfigFile
-	url = ../BaroboConfigFile/
+	url = ssh://dko@iel2.engr.ucdavis.edu/home/dko/projects/BaroboConfigFile.git
